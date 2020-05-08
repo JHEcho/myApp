@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.codezen.myapp",
+      "nativeLanguage": "ko"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "myApp",
+    "packageName": "com.codezen.myapp",
+    "packageFolder": "com/codezen/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDEzODljYWM3MDQ5N2RlMmRlZTBjMGUzOGUyNDY1NDcxNzdlNWZmNjg5Nzk2OGVhN2RhZmQ5ZmFmM2RhYTg1NDcyMDBjOTIyZWIxYTA0OTdkYjY3MzA3N2E5NGE5ZmEyNDZjMzMxYzNhNTBkZDQ0YzA2YmI3MmMyMDM3MzRmNzM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1588649166260,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ko",
+    "languages": ["ko"],
+    "blueprints": []
+  }
+}
