@@ -1,0 +1,7 @@
+entity Board {
+    title String required,
+    content String required,
+    writer String required,
+    date String required,
+    imgpath String required
+}

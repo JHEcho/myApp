@@ -37,9 +37,9 @@ spring:
       indent-output: true
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:mariadb://localhost:3306/myApp?useLegacyDatetimeCode=false&serverTimezone=UTC
-    username: root
-    password:
+    url: jdbc:mariadb://git.boaflower.com:3306/test?useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: test
+    password: test
     hikari:
       poolName: Hikari
       auto-commit: false
@@ -121,3 +121,5 @@ jhipster:
 # ===================================================================
 
 # application:
+image:
+  path: Users/HEON/dev/myApp/src/main/java/com/codezen/myapp/image/
